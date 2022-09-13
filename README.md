@@ -21,7 +21,7 @@ event = [uuid, event type, activity, start time, duration, flexibility, host, pa
 ti = [uuid_e1, uuid_e2, temporal class, commuting time, user_action_1, user_action_2, user_action_3, user_action_4]
 
 
-| User  | No. events   |  No. tis) |
+| User  | No. events   |  No. tis |
 | ----  | :-----:  | :----:  | 
 |1	|4383	|756	|
 |2	|3359	|489	|
